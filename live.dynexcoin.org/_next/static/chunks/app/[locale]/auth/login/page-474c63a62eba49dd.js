@@ -238,7 +238,7 @@
     64531: function (e, o) {
       "use strict";
       o.Z = {
-        src: "./_next/static/media/logo-full.d6dbbcdc.svg",
+        src: "./live.dynexcoin.org/_next/static/media/logo-full.d6dbbcdc.svg",
         height: 279,
         width: 990,
         blurWidth: 0,

@@ -159,14 +159,14 @@
         o = a(28457),
         n = a(31537),
         i = {
-          src: "./_next/static/media/unlock.5912db75.svg",
+          src: "./live.dynexcoin.org/_next/static/media/unlock.5912db75.svg",
           height: 72,
           width: 72,
           blurWidth: 0,
           blurHeight: 0,
         },
         l = {
-          src: "./_next/static/media/strategy.b53cf0f7.svg",
+          src: "./live.dynexcoin.org/_next/static/media/strategy.b53cf0f7.svg",
           height: 72,
           width: 72,
           blurWidth: 0,
@@ -227,14 +227,14 @@
         h = a(33253),
         m = a(36815),
         b = {
-          src: "./_next/static/media/fork.d727b328.svg",
+          src: "./live.dynexcoin.org/_next/static/media/fork.d727b328.svg",
           height: 33,
           width: 32,
           blurWidth: 0,
           blurHeight: 0,
         },
         x = {
-          src: "./_next/static/media/console.732376d8.svg",
+          src: "./live.dynexcoin.org/_next/static/media/console.732376d8.svg",
           height: 33,
           width: 32,
           blurWidth: 0,
@@ -242,14 +242,14 @@
         },
         g = a(58645),
         p = {
-          src: "./_next/static/media/cube.252ee71f.svg",
+          src: "./live.dynexcoin.org/_next/static/media/cube.252ee71f.svg",
           height: 800,
           width: 800,
           blurWidth: 0,
           blurHeight: 0,
         },
         f = {
-          src: "./_next/static/media/people-3.f4fbb2ad.svg",
+          src: "./live.dynexcoin.org/_next/static/media/people-3.f4fbb2ad.svg",
           height: 32,
           width: 32,
           blurWidth: 0,
@@ -443,14 +443,14 @@
         S = a(6892),
         N = a(28457),
         D = {
-          src: "./_next/static/media/amd.dfdb18e5.svg",
+          src: "./live.dynexcoin.org/_next/static/media/amd.dfdb18e5.svg",
           height: 12,
           width: 51,
           blurWidth: 0,
           blurHeight: 0,
         },
         k = {
-          src: "./_next/static/media/nvidia.b1f54699.svg",
+          src: "./live.dynexcoin.org/_next/static/media/nvidia.b1f54699.svg",
           height: 12,
           width: 65,
           blurWidth: 0,
@@ -458,7 +458,7 @@
         },
         P = a(58554),
         C = {
-          src: "./_next/static/media/indicators.aa76d121.svg",
+          src: "./live.dynexcoin.org/_next/static/media/indicators.aa76d121.svg",
           height: 32,
           width: 32,
           blurWidth: 0,
@@ -467,14 +467,14 @@
         H = a(36335),
         J = a(33253),
         M = {
-          src: "./_next/static/media/bulb.8e072a16.svg",
+          src: "./live.dynexcoin.org/_next/static/media/bulb.8e072a16.svg",
           height: 33,
           width: 32,
           blurWidth: 0,
           blurHeight: 0,
         },
         T = {
-          src: "./_next/static/media/warn.2521f32f.svg",
+          src: "./live.dynexcoin.org/_next/static/media/warn.2521f32f.svg",
           height: 33,
           width: 32,
           blurWidth: 0,
@@ -1908,7 +1908,7 @@
     36815: function (e, t) {
       "use strict";
       t.Z = {
-        src: "./_next/static/media/avatar.adcb5bcc.svg",
+        src: "./live.dynexcoin.org/_next/static/media/avatar.adcb5bcc.svg",
         height: 32,
         width: 32,
         blurWidth: 0,
@@ -1918,7 +1918,7 @@
     58645: function (e, t) {
       "use strict";
       t.Z = {
-        src: "./_next/static/media/coin.2d4f6450.svg",
+        src: "./live.dynexcoin.org/_next/static/media/coin.2d4f6450.svg",
         height: 32,
         width: 32,
         blurWidth: 0,
@@ -1928,7 +1928,7 @@
     36335: function (e, t) {
       "use strict";
       t.Z = {
-        src: "./_next/static/media/dollar.61869ae5.svg",
+        src: "./live.dynexcoin.org/_next/static/media/dollar.61869ae5.svg",
         height: 24,
         width: 24,
         blurWidth: 0,
@@ -1938,7 +1938,7 @@
     33253: function (e, t) {
       "use strict";
       t.Z = {
-        src: "./_next/static/media/lightning.49dbd16c.svg",
+        src: "./live.dynexcoin.org/_next/static/media/lightning.49dbd16c.svg",
         height: 32,
         width: 32,
         blurWidth: 0,
@@ -1948,7 +1948,7 @@
     58554: function (e, t) {
       "use strict";
       t.Z = {
-        src: "./_next/static/media/search.2c2efb04.svg",
+        src: "./live.dynexcoin.org/_next/static/media/search.2c2efb04.svg",
         height: 22,
         width: 22,
         blurWidth: 0,
