@@ -314,7 +314,7 @@
                           (0, s.jsx)(u.rJ, {
                             icon: h.Z,
                             value: o
-                              ? "".concat((0, d.eL)(o.block_fee, 3), " PRN")
+                              ? "".concat((0, d.eL)(o.block_fee, 3), " PTN")
                               : "-",
                             tag: e("dashboard.pouwPayments.compute"),
                             text: e("dashboard.pouwPayments.totalBlockFees"),
@@ -322,7 +322,7 @@
                           (0, s.jsx)(u.rJ, {
                             icon: m.Z,
                             value: o
-                              ? "".concat((0, d.eL)(o.solution_fee, 3), " PRN")
+                              ? "".concat((0, d.eL)(o.solution_fee, 3), " PTN")
                               : "-",
                             tag: e("dashboard.pouwPayments.optional"),
                             text: e("dashboard.pouwPayments.totalAmountPaid"),
@@ -330,13 +330,13 @@
                           (0, s.jsx)(u.rJ, {
                             icon: b,
                             value: o
-                              ? "".concat((0, d.eL)(o.dev_fee, 3), " PRN")
+                              ? "".concat((0, d.eL)(o.dev_fee, 3), " PTN")
                               : "-",
                             text: e("dashboard.pouwPayments.totalDevFees"),
                           }),
                           (0, s.jsx)(u.rJ, {
                             icon: f,
-                            value: k ? "".concat((0, d.eL)(k, 3), " PRN") : "-",
+                            value: k ? "".concat((0, d.eL)(k, 3), " PTN") : "-",
                             text: e.rich(
                               "dashboard.pouwPayments.totalDhipFees",
                               {
@@ -352,7 +352,7 @@
                           }),
                           (0, s.jsx)(u.rJ, {
                             icon: g.Z,
-                            value: y ? "".concat((0, d.eL)(y, 3), " PRN") : "-",
+                            value: y ? "".concat((0, d.eL)(y, 3), " PTN") : "-",
                             text: e(
                               "dashboard.pouwPayments.payAsYouCompute.text"
                             ),
@@ -399,7 +399,7 @@
                             icon: p,
                             value:
                               void 0 !== N
-                                ? "".concat((0, d.eL)(N, 3), " PRN")
+                                ? "".concat((0, d.eL)(N, 3), " PTN")
                                 : "-",
                             text: e("dashboard.networkStatus.avgBlockRewards"),
                           }),
@@ -1002,7 +1002,7 @@
                                             children: t.dnx
                                               ? "".concat(
                                                   (0, y.eL)(t.dnx, 3, " "),
-                                                  " PRN"
+                                                  " PTN"
                                                 )
                                               : "-",
                                           }),
@@ -1291,7 +1291,7 @@
                 enableSorting: !1,
                 cell: (e) => {
                   let { row: t } = e;
-                  return "".concat((0, p.eL)(t.original.fee, 3), " PRN");
+                  return "".concat((0, p.eL)(t.original.fee, 3), " PTN");
                 },
               },
               {
@@ -1301,7 +1301,7 @@
                 enableSorting: !1,
                 cell: (e) => {
                   let { row: t } = e;
-                  return "".concat((0, p.eL)(t.original.reward, 3), " PRN");
+                  return "".concat((0, p.eL)(t.original.reward, 3), " PTN");
                 },
               },
               {
@@ -1321,7 +1321,7 @@
                         children: (0, s.jsx)(b.JT, {
                           text: "".concat(
                             (0, p.eL)(t.original.totalJobCost, 3),
-                            " PRN"
+                            " PTN"
                           ),
                           type: "success",
                         }),
@@ -1601,7 +1601,7 @@
                   let { row: t } = e;
                   return (0, s.jsxs)("div", {
                     className: f().amount,
-                    children: [(0, m.eL)(t.original.amount, 3), " PRN"],
+                    children: [(0, m.eL)(t.original.amount, 3), " PTN"],
                   });
                 },
               },
@@ -1614,7 +1614,7 @@
                   let { row: t } = e;
                   return (0, s.jsxs)("div", {
                     className: f().fee,
-                    children: [(0, m.eL)(t.original.fee, 3), " PRN"],
+                    children: [(0, m.eL)(t.original.fee, 3), " PTN"],
                   });
                 },
               },

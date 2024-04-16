@@ -235,7 +235,7 @@
                           disabled: y,
                           element: (0, o.jsx)("div", {
                             className: j().dnx,
-                            children: "PRN",
+                            children: "PTN",
                           }),
                           onChange: (e) => z(+e),
                           onEnterPress: W,
@@ -811,7 +811,7 @@
           ),
           (0, o.jsx)(c.rJ, {
             icon: d.Z,
-            value: t ? "".concat((0, r.eL)(t, 3), " PRN") : "-",
+            value: t ? "".concat((0, r.eL)(t, 3), " PTN") : "-",
             title: e("compute-on-dynex.payAsYouCompute.title"),
             text: e("compute-on-dynex.payAsYouCompute.text"),
           })
@@ -1278,7 +1278,7 @@
                 enableSorting: !1,
                 cell: (e) => {
                   let { row: t } = e;
-                  return "".concat(t.original.budget, " PRN");
+                  return "".concat(t.original.budget, " PTN");
                 },
               },
               {
@@ -1385,7 +1385,7 @@
                                   className: E().mobileBudget,
                                   children: "".concat(
                                     t.original.budget,
-                                    " PRN"
+                                    " PTN"
                                   ),
                                 }),
                               ],

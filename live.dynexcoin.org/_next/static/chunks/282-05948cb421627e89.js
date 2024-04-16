@@ -412,7 +412,7 @@
                   disabled: !0,
                   element: (0, L.jsx)("div", {
                     className: F().dnx,
-                    children: "PRN",
+                    children: "PTN",
                   }),
                   onChange: () => {},
                 }),
@@ -570,7 +570,7 @@
                   children: [
                     (0, L.jsx)("div", { children: s("jobInformation.fee") }),
                     (0, L.jsxs)("div", {
-                      children: [n ? (0, q.eL)(n.fee, 3) : "-", " PRN"],
+                      children: [n ? (0, q.eL)(n.fee, 3) : "-", " PTN"],
                     }),
                   ],
                 }),
@@ -579,7 +579,7 @@
                   children: [
                     (0, L.jsx)("div", { children: s("jobInformation.reward") }),
                     (0, L.jsxs)("div", {
-                      children: [n ? (0, q.eL)(n.reward, 3) : "-", " PRN"],
+                      children: [n ? (0, q.eL)(n.reward, 3) : "-", " PTN"],
                     }),
                   ],
                 }),
@@ -592,7 +592,7 @@
                     (0, L.jsxs)("div", {
                       children: [
                         n ? (0, q.eL)(n.totalJobCost, 3) : "-",
-                        " PRN",
+                        " PTN",
                       ],
                     }),
                   ],

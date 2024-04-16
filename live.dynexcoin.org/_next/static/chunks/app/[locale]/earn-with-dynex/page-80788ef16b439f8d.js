@@ -450,7 +450,7 @@
                 enableSorting: !1,
                 cell: (e) => {
                   let { row: t } = e;
-                  return "".concat(t.original.budget, " PRN");
+                  return "".concat(t.original.budget, " PTN");
                 },
               },
               {
@@ -552,7 +552,7 @@
                                   className: C().mobileBudget,
                                   children: "".concat(
                                     t.original.budget,
-                                    " PRN"
+                                    " PTN"
                                   ),
                                 }),
                               ],

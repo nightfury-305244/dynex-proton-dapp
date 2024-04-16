@@ -194,7 +194,7 @@
         v = t(47713),
         p = t(31537),
         m = t(79466);
-      let b = "PRN Marketplace";
+      let b = "PTN Marketplace";
       function x(e) {
         let { children: i } = e,
           t = (0, s.useTranslations)(),
@@ -463,7 +463,7 @@
                             alt: "Coin",
                             draggable: "false",
                           }),
-                          (0, a.jsx)("div", { children: "PRN" }),
+                          (0, a.jsx)("div", { children: "PTN" }),
                         ],
                       }),
                       (0, a.jsx)("div", { children: (0, O.eL)(t.balance, 3) }),
@@ -496,7 +496,7 @@
                                 alt: "Coin",
                                 draggable: "false",
                               }),
-                              (0, a.jsx)("div", { children: "PRN" }),
+                              (0, a.jsx)("div", { children: "PTN" }),
                             ],
                           }),
                           (0, a.jsx)("div", {

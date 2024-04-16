@@ -202,7 +202,7 @@
                 enableSorting: !1,
                 cell: (e) => {
                   let { row: t } = e;
-                  return "".concat((0, d.eL)(t.original.fee, 3, ","), " PRN");
+                  return "".concat((0, d.eL)(t.original.fee, 3, ","), " PTN");
                 },
               },
               {
@@ -214,7 +214,7 @@
                   let { row: t } = e;
                   return "".concat(
                     (0, d.eL)(t.original.reward, 3, ","),
-                    " PRN"
+                    " PTN"
                   );
                 },
               },
@@ -418,7 +418,7 @@
             (0, s.jsx)(h.fA, {
               title: a("usage.stats.costs"),
               value: t
-                ? "".concat((0, u.eL)(t.totalCosts, 6, " "), " PRN")
+                ? "".concat((0, u.eL)(t.totalCosts, 6, " "), " PTN")
                 : "-",
             }),
           ],
@@ -685,7 +685,7 @@
                           (0, s.jsx)("div", {
                             children: (0, u.eL)(l.balance, 4, " "),
                           }),
-                          (0, s.jsx)("div", { children: "PRN" }),
+                          (0, s.jsx)("div", { children: "PTN" }),
                         ],
                       }),
                       (0, s.jsx)(f.h, {
@@ -728,7 +728,7 @@
                                 formatValue: (e) =>
                                   "".concat(
                                     (0, u.eL)(e.balance, 6, " "),
-                                    " PRN"
+                                    " PTN"
                                   ),
                               }),
                             }),
@@ -783,14 +783,14 @@
                     icon: R.Z,
                     text: a("usage.stats.highestRewardOffered"),
                     value: t
-                      ? "".concat((0, u.eL)(t.maxJobCost, 5, " "), " PRN")
+                      ? "".concat((0, u.eL)(t.maxJobCost, 5, " "), " PTN")
                       : "-",
                   }),
                   (0, s.jsx)(h.rJ, {
                     icon: K.Z,
                     text: a("usage.stats.averageJobCost"),
                     value: t
-                      ? "".concat((0, u.eL)(t.averageJobCost, 5, " "), " PRN")
+                      ? "".concat((0, u.eL)(t.averageJobCost, 5, " "), " PTN")
                       : "-",
                   }),
                 ],
