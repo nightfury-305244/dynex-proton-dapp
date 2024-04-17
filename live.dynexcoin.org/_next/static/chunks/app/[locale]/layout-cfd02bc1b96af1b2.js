@@ -444,8 +444,7 @@
           { width: i } = (0, f.Z)(),
           t = (0, h.LM)(),
           [n, s] = (0, o.useState)(!1);
-        return t.authenticated
-          ? (0, a.jsxs)(a.Fragment, {
+        return  (0, a.jsxs)(a.Fragment, {
               children: [
                 (0, a.jsx)(p.Mc, {
                   href: "/billing",
@@ -571,13 +570,7 @@
                 }),
               ],
             })
-          : (0, a.jsx)(p.Mc, {
-              href: "/auth/login",
-              children: (0, a.jsx)("div", {
-                className: E().button,
-                children: e("auth.login.loginButton"),
-              }),
-            });
+         
       }
       var R = {
           src: "/live.dynexcoin.org/_next/static/media/burger.3629a328.svg",
