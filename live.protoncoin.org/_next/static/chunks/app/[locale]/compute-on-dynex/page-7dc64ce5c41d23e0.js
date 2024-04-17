@@ -673,14 +673,14 @@
         u = n(28457),
         x = n(31537),
         m = {
-          src: "/live.dynexcoin.org/_next/static/media/hosted.d9ccb248.svg",
+          src: "/live.protoncoin.org/_next/static/media/hosted.d9ccb248.svg",
           height: 20,
           width: 20,
           blurWidth: 0,
           blurHeight: 0,
         },
         p = {
-          src: "/live.dynexcoin.org/_next/static/media/atom-green.4e5e63da.svg",
+          src: "/live.protoncoin.org/_next/static/media/atom-green.4e5e63da.svg",
           height: 195,
           width: 476,
           blurWidth: 0,
@@ -1513,7 +1513,7 @@
     22549: function (e, t) {
       "use strict";
       t.Z = {
-        src: "/live.dynexcoin.org/_next/static/media/check-in-circle.a2811b5b.svg",
+        src: "/live.protoncoin.org/_next/static/media/check-in-circle.a2811b5b.svg",
         height: 16,
         width: 16,
         blurWidth: 0,
@@ -1523,7 +1523,7 @@
     58645: function (e, t) {
       "use strict";
       t.Z = {
-        src: "/live.dynexcoin.org/_next/static/media/coin.2d4f6450.svg",
+        src: "/live.protoncoin.org/_next/static/media/coin.2d4f6450.svg",
         height: 32,
         width: 32,
         blurWidth: 0,

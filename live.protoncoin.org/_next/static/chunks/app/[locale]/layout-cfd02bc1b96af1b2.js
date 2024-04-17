@@ -381,7 +381,7 @@
         });
       }
       var y = {
-          src: "/live.dynexcoin.org/_next/static/media/exit.c63a36d3.svg",
+          src: "/live.protoncoin.org/_next/static/media/exit.c63a36d3.svg",
           height: 20,
           width: 20,
           blurWidth: 0,
@@ -403,35 +403,35 @@
       }
       var O = t(99763),
         Z = {
-          src: "/live.dynexcoin.org/_next/static/media/dynex-colored.cdfc93e9.svg",
+          src: "/live.protoncoin.org/_next/static/media/dynex-colored.cdfc93e9.svg",
           height: 20,
           width: 20,
           blurWidth: 0,
           blurHeight: 0,
         },
         M = {
-          src: "/live.dynexcoin.org/_next/static/media/avatar-round.70f795e1.svg",
+          src: "/live.protoncoin.org/_next/static/media/avatar-round.70f795e1.svg",
           height: 20,
           width: 20,
           blurWidth: 0,
           blurHeight: 0,
         },
         P = {
-          src: "/live.dynexcoin.org/_next/static/media/card.1eb7ec1c.svg",
+          src: "/live.protoncoin.org/_next/static/media/card.1eb7ec1c.svg",
           height: 20,
           width: 20,
           blurWidth: 0,
           blurHeight: 0,
         },
         S = {
-          src: "/live.dynexcoin.org/_next/static/media/key.2233ea47.svg",
+          src: "/live.protoncoin.org/_next/static/media/key.2233ea47.svg",
           height: 800,
           width: 800,
           blurWidth: 0,
           blurHeight: 0,
         },
         W = {
-          src: "/live.dynexcoin.org/_next/static/media/people.627f7fad.svg",
+          src: "/live.protoncoin.org/_next/static/media/people.627f7fad.svg",
           height: 800,
           width: 800,
           blurWidth: 0,
@@ -573,7 +573,7 @@
          
       }
       var R = {
-          src: "/live.dynexcoin.org/_next/static/media/burger.3629a328.svg",
+          src: "/live.protoncoin.org/_next/static/media/burger.3629a328.svg",
           height: 20,
           width: 20,
           blurWidth: 0,
@@ -628,21 +628,21 @@
         });
       }
       var q = {
-          src: "/live.dynexcoin.org/_next/static/media/logo.1091de6e.svg",
+          src: "/live.protoncoin.org/_next/static/media/logo.1091de6e.svg",
           height: 32,
           width: 29,
           blurWidth: 0,
           blurHeight: 0,
         },
         z = {
-          src: "/live.dynexcoin.org/_next/static/media/squares.13e7a25c.svg",
+          src: "/live.protoncoin.org/_next/static/media/squares.13e7a25c.svg",
           height: 24,
           width: 24,
           blurWidth: 0,
           blurHeight: 0,
         },
         B = {
-          src: "/live.dynexcoin.org/_next/static/media/cpu.64a0e25c.svg",
+          src: "/live.protoncoin.org/_next/static/media/cpu.64a0e25c.svg",
           height: 24,
           width: 24,
           blurWidth: 0,
@@ -650,7 +650,7 @@
         },
         X = t(36335),
         G = {
-          src: "/live.dynexcoin.org/_next/static/media/layers.fdbfc029.svg",
+          src: "/live.protoncoin.org/_next/static/media/layers.fdbfc029.svg",
           height: 24,
           width: 24,
           blurWidth: 0,
@@ -658,14 +658,14 @@
         },
         I = t(13207),
         J = {
-          src: "/live.dynexcoin.org/_next/static/media/code.9a9935fc.svg",
+          src: "/live.protoncoin.org/_next/static/media/code.9a9935fc.svg",
           height: 24,
           width: 24,
           blurWidth: 0,
           blurHeight: 0,
         },
         V = {
-          src: "/live.dynexcoin.org/_next/static/media/fox.44000ed5.svg",
+          src: "/live.protoncoin.org/_next/static/media/fox.44000ed5.svg",
           height: 24,
           width: 24,
           blurWidth: 0,
@@ -673,7 +673,7 @@
         },
         Q = t(32215),
         Y = {
-          src: "/live.dynexcoin.org/_next/static/media/arrow-left-filled.94ecdce4.svg",
+          src: "/live.protoncoin.org/_next/static/media/arrow-left-filled.94ecdce4.svg",
           height: 24,
           width: 24,
           blurWidth: 0,
@@ -1163,7 +1163,7 @@
     36335: function (e, i) {
       "use strict";
       i.Z = {
-        src: "/live.dynexcoin.org/_next/static/media/dollar.61869ae5.svg",
+        src: "/live.protoncoin.org/_next/static/media/dollar.61869ae5.svg",
         height: 24,
         width: 24,
         blurWidth: 0,
@@ -1173,7 +1173,7 @@
     36040: function (e, i) {
       "use strict";
       i.Z = {
-        src: "/live.dynexcoin.org/_next/static/media/exclamation.38f7077b.svg",
+        src: "/live.protoncoin.org/_next/static/media/exclamation.38f7077b.svg",
         height: 800,
         width: 800,
         blurWidth: 0,
@@ -1183,7 +1183,7 @@
     32215: function (e, i) {
       "use strict";
       i.Z = {
-        src: "/live.dynexcoin.org/_next/static/media/question.8e3d64e3.svg",
+        src: "/live.protoncoin.org/_next/static/media/question.8e3d64e3.svg",
         height: 24,
         width: 24,
         blurWidth: 0,
@@ -1193,7 +1193,7 @@
     13207: function (e, i) {
       "use strict";
       i.Z = {
-        src: "/live.dynexcoin.org/_next/static/media/timer.6107923f.svg",
+        src: "/live.protoncoin.org/_next/static/media/timer.6107923f.svg",
         height: 52,
         width: 52,
         blurWidth: 0,
@@ -1203,7 +1203,7 @@
     64531: function (e, i) {
       "use strict";
       i.Z = {
-        src: "/live.dynexcoin.org/_next/static/media/logo-full.d6dbbcdc.svg",
+        src: "/live.protoncoin.org/_next/static/media/logo-full.d6dbbcdc.svg",
         height: 279,
         width: 990,
         blurWidth: 0,
