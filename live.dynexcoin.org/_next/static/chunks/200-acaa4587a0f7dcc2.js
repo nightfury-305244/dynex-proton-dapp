@@ -411,18 +411,7 @@
         m = n(88089),
         h = n(92173);
       let g = "https://api.market.dynexcoin.org/api/v2";
-      function v(e) {
-        return h.Z.post("".concat(g, "/auth/login"), e);
-      }
-      function b(e) {
-        return h.Z.post("".concat(g, "/auth/register"), e);
-      }
-      function k(e) {
-        return m.ZP.post("/auth/refresh_token", e);
-      }
-      function y(e) {
-        return h.Z.post("".concat(g, "/auth/recovery"), e);
-      }
+      
       var x = n(12505),
         C = n(62067),
         w = n.n(C);
