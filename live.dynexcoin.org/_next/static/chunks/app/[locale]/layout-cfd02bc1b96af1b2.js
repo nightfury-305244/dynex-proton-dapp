@@ -194,7 +194,7 @@
         v = t(47713),
         p = t(31537),
         m = t(79466);
-      let b = "DNX Marketplace";
+      let b = "PTN Marketplace";
       function x(e) {
         let { children: i } = e,
           t = (0, s.useTranslations)(),
