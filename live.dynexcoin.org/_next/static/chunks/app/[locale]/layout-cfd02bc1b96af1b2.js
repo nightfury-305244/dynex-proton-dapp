@@ -837,27 +837,6 @@
                           }),
                         ],
                       }),
-                      (0, a.jsxs)(p.Mc, {
-                        href: "/code-library",
-                        className: (0, _.Z)(
-                          ee().link,
-                          "code-library" === i && ee().link_current
-                        ),
-                        children: [
-                          (0, a.jsx)(r(), {
-                            src: J,
-                            alt: "Code",
-                            draggable: "false",
-                          }),
-                          (0, a.jsx)("div", {
-                            className: (0, _.Z)(
-                              ee().link_title,
-                              !n.isNavigationOpen && ee().link_title_closed
-                            ),
-                            children: e("code-library.title"),
-                          }),
-                        ],
-                      }),
                     ],
                   }),
                   (0, a.jsxs)("div", {
@@ -874,7 +853,7 @@
                         children: e("navigation.externalLinks.title"),
                       }),
                       (0, a.jsxs)(s(), {
-                        href: "https://dynexcoin.org/learn/dynex-sdk",
+                        href: "https://protoncoin.tech/dynex-sdk",
                         className: ee().link,
                         target: "_blank",
                         children: [
@@ -889,46 +868,6 @@
                               !n.isNavigationOpen && ee().link_title_closed
                             ),
                             children: e("navigation.externalLinks.sdk"),
-                          }),
-                        ],
-                      }),
-                      (0, a.jsxs)(s(), {
-                        href: "https://github.com/dynexcoin/DynexSDK",
-                        className: ee().link,
-                        target: "_blank",
-                        children: [
-                          (0, a.jsx)(r(), {
-                            src: V,
-                            alt: "Fox",
-                            draggable: "false",
-                          }),
-                          (0, a.jsx)("div", {
-                            className: (0, _.Z)(
-                              ee().link_title,
-                              !n.isNavigationOpen && ee().link_title_closed
-                            ),
-                            children: e("navigation.externalLinks.packages"),
-                          }),
-                        ],
-                      }),
-                      (0, a.jsxs)(s(), {
-                        href: "https://docs.dynexcoin.org/",
-                        className: ee().link,
-                        target: "_blank",
-                        children: [
-                          (0, a.jsx)(r(), {
-                            src: Q.Z,
-                            alt: "Question",
-                            draggable: "false",
-                          }),
-                          (0, a.jsx)("div", {
-                            className: (0, _.Z)(
-                              ee().link_title,
-                              !n.isNavigationOpen && ee().link_title_closed
-                            ),
-                            children: e(
-                              "navigation.externalLinks.documentation"
-                            ),
                           }),
                         ],
                       }),
@@ -1012,17 +951,7 @@
                                   ],
                                 })
                               : (0, a.jsxs)("div", {
-                                  className: ee().contacts,
-                                  children: [
-                                    (0, a.jsx)("div", {
-                                      children: "Contact us:",
-                                    }),
-                                    (0, a.jsx)(s(), {
-                                      href: "./",
-                                      target: "_blank",
-                                      children: "Link tree",
-                                    }),
-                                  ],
+                                  
                                 }),
                           ],
                         }),
