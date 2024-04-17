@@ -190,15 +190,6 @@
                 m && C();
               }, [m]),
               (0, p.useEffect)(() => {
-                void 0 === r.kyc || void 0 === r.tfa
-                  ? t.replace("/auth/login")
-                  : r.kyc === v.eg.Approved
-                  ? r.tfa || k()
-                  : r.kyc === v.eg.Processing
-                  ? r.tfa
-                    ? t.replace("/auth/completed")
-                    : k()
-                  : t.replace("/auth/kyc");
               }, []),
               {
                 loading: o,
