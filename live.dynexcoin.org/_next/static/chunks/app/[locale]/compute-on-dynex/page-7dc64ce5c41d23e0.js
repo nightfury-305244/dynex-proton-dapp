@@ -235,7 +235,7 @@
                           disabled: y,
                           element: (0, o.jsx)("div", {
                             className: j().dnx,
-                            children: "DNX",
+                            children: "PTN",
                           }),
                           onChange: (e) => z(+e),
                           onEnterPress: W,

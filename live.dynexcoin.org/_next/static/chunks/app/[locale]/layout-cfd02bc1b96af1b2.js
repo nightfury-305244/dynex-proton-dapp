@@ -460,7 +460,7 @@
                             alt: "Coin",
                             draggable: "false",
                           }),
-                          (0, a.jsx)("div", { children: "DNX" }),
+                          (0, a.jsx)("div", { children: "PTN" }),
                         ],
                       }),
                       (0, a.jsx)("div", { children: (0, O.eL)(t.balance, 3) }),
@@ -493,7 +493,7 @@
                                 alt: "Coin",
                                 draggable: "false",
                               }),
-                              (0, a.jsx)("div", { children: "DNX" }),
+                              (0, a.jsx)("div", { children: "PTN" }),
                             ],
                           }),
                           (0, a.jsx)("div", {
